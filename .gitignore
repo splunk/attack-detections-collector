@@ -1,0 +1,4 @@
+.mypy_cache
+.python-version
+security_content/
+*.xml
