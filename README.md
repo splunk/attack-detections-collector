@@ -1,5 +1,5 @@
 # ATT&CK Detections Collector
-Collects a listing ot ATT&CK techniques, then discovers ESCU detections for the technique. Results may be saved as HTML or for use with ATT&CK Navigator.
+Collects a listing of ATT&CK techniques, then discovers ESCU detections for the technique. Results may be saved as HTML or for use with ATT&CK Navigator.
 
 
 ## Installation
